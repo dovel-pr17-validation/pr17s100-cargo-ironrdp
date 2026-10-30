@@ -1,0 +1,20 @@
+# Build artifacts
+/target
+/dependencies
+/bench-data
+# Local cargo root
+/.cargo/local_root
+
+# Log files
+*.log
+
+# Editor/IDE files
+*~
+/tags
+.idea
+.vscode
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sw?
